@@ -3,9 +3,9 @@
         <title>Xero OAuth PHP</title>
     </head>
     <body>
-        <h1>Howdy</h1>
+        <h1>Test of the Xero API</h1>
         <ol>
-            <li>A sample script is in <a href="example.php">example.php</a>
+            <li>The test script is in <a href="example.php">example.php</a>
             </li>
         </ol>
       
